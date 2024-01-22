@@ -8,7 +8,7 @@ You will need an [ORCID](https://orcid.org/) account for this hands-on demo.
 
 ## 2. Publish a piece of open data with Nanodash
 
-Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest) (or this [alternative Nanodash instance](https://nanodash.knowledgepixels.com/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest)).
+Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&pitemplate1=https://w3id.org/np/RA-Hs6sb_FPN6ujRkEyahCoaC9zoU7u3iS7porwn-iBl8&template-version=latest) (or this [alternative Nanodash instance](https://nanodash.knowledgepixels.com/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&pitemplate1=https://w3id.org/np/RA-Hs6sb_FPN6ujRkEyahCoaC9zoU7u3iS7porwn-iBl8&template-version=latest)).
 
 ## 3. Check out all published opinions
 
